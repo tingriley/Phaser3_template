@@ -9,6 +9,6 @@
    * preload.js --> Preloader
    * menu.js  	--> the title screen
    * level1.js	--> the main logic of level 1
-   * level2.js	--> the main logic of level 1
+   * level2.js	--> the main logic of level 2
 
 
